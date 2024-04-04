@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ldgxI2e1aQGDkYwsdAtfU1lMP766dEol4DUvh9PUR9o=",
+  "Hash": "+J3GYZf7IWHUlspzlrK/K8WuPsgV9fXNOuy50wc8J6Q=",
   "Source": "Pustok p237",
   "BasePath": "_content/Pustok p237",
   "Mode": "Default",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pustok p237.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\css\\main.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\css\\main.css",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "css/main.css",
+      "RelativePath": "Client/css/main.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\main.css"
+      "OriginalItemSpec": "wwwroot\\Client\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\css\\plugins.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\css\\plugins.css",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "css/plugins.css",
+      "RelativePath": "Client/css/plugins.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\plugins.css"
+      "OriginalItemSpec": "wwwroot\\Client\\css\\plugins.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-brands-400.eot",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-brands-400.eot",
+      "RelativePath": "Client/fonts/fa-brands-400.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.eot"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-brands-400.svg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-brands-400.svg",
+      "RelativePath": "Client/fonts/fa-brands-400.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.svg"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-brands-400.ttf",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-brands-400.ttf",
+      "RelativePath": "Client/fonts/fa-brands-400.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.ttf"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-brands-400.woff",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-brands-400.woff",
+      "RelativePath": "Client/fonts/fa-brands-400.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.woff"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-brands-400.woff2",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-brands-400.woff2",
+      "RelativePath": "Client/fonts/fa-brands-400.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.woff2"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-brands-400d41d.eot",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-brands-400d41d.eot",
+      "RelativePath": "Client/fonts/fa-brands-400d41d.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400d41d.eot"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-brands-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-regular-400.eot",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-regular-400.eot",
+      "RelativePath": "Client/fonts/fa-regular-400.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.eot"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-regular-400.svg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-regular-400.svg",
+      "RelativePath": "Client/fonts/fa-regular-400.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.svg"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-regular-400.ttf",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-regular-400.ttf",
+      "RelativePath": "Client/fonts/fa-regular-400.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.ttf"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-regular-400.woff",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-regular-400.woff",
+      "RelativePath": "Client/fonts/fa-regular-400.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.woff"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-regular-400.woff2",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-regular-400.woff2",
+      "RelativePath": "Client/fonts/fa-regular-400.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.woff2"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-regular-400d41d.eot",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-regular-400d41d.eot",
+      "RelativePath": "Client/fonts/fa-regular-400d41d.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400d41d.eot"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-regular-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-solid-900.eot",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-solid-900.eot",
+      "RelativePath": "Client/fonts/fa-solid-900.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.eot"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-solid-900.svg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-solid-900.svg",
+      "RelativePath": "Client/fonts/fa-solid-900.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.svg"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-solid-900.ttf",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-solid-900.ttf",
+      "RelativePath": "Client/fonts/fa-solid-900.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.ttf"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-solid-900.woff",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-solid-900.woff",
+      "RelativePath": "Client/fonts/fa-solid-900.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.woff"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-solid-900.woff2",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-solid-900.woff2",
+      "RelativePath": "Client/fonts/fa-solid-900.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.woff2"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\fa-solid-900d41d.eot",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/fa-solid-900d41d.eot",
+      "RelativePath": "Client/fonts/fa-solid-900d41d.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900d41d.eot"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\fa-solid-900d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\Ionicons28b5.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\Ionicons28b5.eot",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/Ionicons28b5.eot",
+      "RelativePath": "Client/fonts/Ionicons28b5.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Ionicons28b5.eot"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\Ionicons28b5.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\Ionicons28b5.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\Ionicons28b5.svg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/Ionicons28b5.svg",
+      "RelativePath": "Client/fonts/Ionicons28b5.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Ionicons28b5.svg"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\Ionicons28b5.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\Ionicons28b5.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\Ionicons28b5.ttf",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/Ionicons28b5.ttf",
+      "RelativePath": "Client/fonts/Ionicons28b5.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Ionicons28b5.ttf"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\Ionicons28b5.ttf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\Ionicons28b5.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\Ionicons28b5.woff",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/Ionicons28b5.woff",
+      "RelativePath": "Client/fonts/Ionicons28b5.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Ionicons28b5.woff"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\Ionicons28b5.woff"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.ttf",
+      "RelativePath": "Client/fonts/Material-Design-Iconic-Fontd1f1.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.woff",
+      "RelativePath": "Client/fonts/Material-Design-Iconic-Fontd1f1.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.woff2",
+      "RelativePath": "Client/fonts/Material-Design-Iconic-Fontd1f1.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+      "OriginalItemSpec": "wwwroot\\Client\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\best-seller-bg.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\best-seller-bg.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/best-seller-bg.jpg",
+      "RelativePath": "Client/image/bg-images/best-seller-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\best-seller-bg.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\best-seller-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\home-2-slider-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\home-2-slider-1.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/home-2-slider-1.jpg",
+      "RelativePath": "Client/image/bg-images/home-2-slider-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-2-slider-1.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\home-2-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\home-2-slider-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\home-2-slider-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/home-2-slider-2.jpg",
+      "RelativePath": "Client/image/bg-images/home-2-slider-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-2-slider-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\home-2-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\home-3-slider-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\home-3-slider-1.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/home-3-slider-1.jpg",
+      "RelativePath": "Client/image/bg-images/home-3-slider-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-3-slider-1.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\home-3-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\home-3-slider-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\home-3-slider-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/home-3-slider-2.jpg",
+      "RelativePath": "Client/image/bg-images/home-3-slider-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-3-slider-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\home-3-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\home-4-slider-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\home-4-slider-1.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/home-4-slider-1.jpg",
+      "RelativePath": "Client/image/bg-images/home-4-slider-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-4-slider-1.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\home-4-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\home-4-slider-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\home-4-slider-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/home-4-slider-2.jpg",
+      "RelativePath": "Client/image/bg-images/home-4-slider-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-4-slider-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\home-4-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\home-slider-1-ai.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\home-slider-1-ai.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/home-slider-1-ai.png",
+      "RelativePath": "Client/image/bg-images/home-slider-1-ai.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-slider-1-ai.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\home-slider-1-ai.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\home-slider-2-ai.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\home-slider-2-ai.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/home-slider-2-ai.png",
+      "RelativePath": "Client/image/bg-images/home-slider-2-ai.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-slider-2-ai.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\home-slider-2-ai.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\promo-banner-contained.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\promo-banner-contained.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/promo-banner-contained.jpg",
+      "RelativePath": "Client/image/bg-images/promo-banner-contained.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -677,15 +677,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-contained.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\promo-banner-contained.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\promo-banner-full.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\promo-banner-full.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/promo-banner-full.jpg",
+      "RelativePath": "Client/image/bg-images/promo-banner-full.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -694,15 +694,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-full.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\promo-banner-full.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\promo-banner-mid.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\promo-banner-mid.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/promo-banner-mid.jpg",
+      "RelativePath": "Client/image/bg-images/promo-banner-mid.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,15 +711,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-mid.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\promo-banner-mid.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\promo-banner-small.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\promo-banner-small.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/promo-banner-small.jpg",
+      "RelativePath": "Client/image/bg-images/promo-banner-small.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,15 +728,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-small.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\promo-banner-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\promo-banner-small-with-text.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\promo-banner-small-with-text.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/promo-banner-small-with-text.jpg",
+      "RelativePath": "Client/image/bg-images/promo-banner-small-with-text.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-small-with-text.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\promo-banner-small-with-text.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\promo-banner-with-text.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\promo-banner-with-text.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/promo-banner-with-text.jpg",
+      "RelativePath": "Client/image/bg-images/promo-banner-with-text.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-with-text.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\promo-banner-with-text.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\promo-banner-with-text-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\promo-banner-with-text-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/promo-banner-with-text-2.jpg",
+      "RelativePath": "Client/image/bg-images/promo-banner-with-text-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-with-text-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\promo-banner-with-text-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/promo-banner-with-text-2--small.jpg",
+      "RelativePath": "Client/image/bg-images/promo-banner-with-text-2--small.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,15 +796,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-with-text-2--small.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\promo-banner-with-text-2--small.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\bg-images\\promo-banner-with-text-big.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\bg-images\\promo-banner-with-text-big.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/bg-images/promo-banner-with-text-big.jpg",
+      "RelativePath": "Client/image/bg-images/promo-banner-with-text-big.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -813,15 +813,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-with-text-big.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\bg-images\\promo-banner-with-text-big.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\favicon.ico",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\favicon.ico",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/favicon.ico",
+      "RelativePath": "Client/image/favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -830,15 +830,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\icon\\author-logo.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\icon\\author-logo.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/icon/author-logo.png",
+      "RelativePath": "Client/image/icon/author-logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -847,15 +847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\icon\\author-logo.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\icon\\author-logo.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\icon\\eng-flag.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\icon\\eng-flag.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/icon/eng-flag.png",
+      "RelativePath": "Client/image/icon/eng-flag.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -864,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\icon\\eng-flag.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\icon\\eng-flag.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\icon\\germany-flag.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\icon\\germany-flag.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/icon/germany-flag.png",
+      "RelativePath": "Client/image/icon/germany-flag.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\icon\\germany-flag.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\icon\\germany-flag.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\icon\\payment.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\icon\\payment.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/icon/payment.png",
+      "RelativePath": "Client/image/icon/payment.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\icon\\payment.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\icon\\payment.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\icon\\quotation.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\icon\\quotation.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/icon/quotation.png",
+      "RelativePath": "Client/image/icon/quotation.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,15 +915,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\icon\\quotation.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\icon\\quotation.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\logo.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\logo.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/logo.png",
+      "RelativePath": "Client/image/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\logo.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\logo--footer.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\logo--footer.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/logo--footer.png",
+      "RelativePath": "Client/image/logo--footer.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\logo--footer.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\logo--footer.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\best-seller-author.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\best-seller-author.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/best-seller-author.jpg",
+      "RelativePath": "Client/image/others/best-seller-author.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\best-seller-author.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\best-seller-author.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\blog-grid-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\blog-grid-1.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/blog-grid-1.jpg",
+      "RelativePath": "Client/image/others/blog-grid-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\blog-grid-1.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\blog-grid-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\blog-grid-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\blog-grid-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/blog-grid-2.jpg",
+      "RelativePath": "Client/image/others/blog-grid-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,15 +1000,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\blog-grid-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\blog-grid-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\blog-grid-3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\blog-grid-3.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/blog-grid-3.jpg",
+      "RelativePath": "Client/image/others/blog-grid-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,15 +1017,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\blog-grid-3.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\blog-grid-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\blog-grid-4.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\blog-grid-4.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/blog-grid-4.jpg",
+      "RelativePath": "Client/image/others/blog-grid-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1034,15 +1034,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\blog-grid-4.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\blog-grid-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\blog-img-big-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\blog-img-big-1.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/blog-img-big-1.jpg",
+      "RelativePath": "Client/image/others/blog-img-big-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1051,15 +1051,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\blog-img-big-1.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\blog-img-big-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\blog-img-big-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\blog-img-big-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/blog-img-big-2.jpg",
+      "RelativePath": "Client/image/others/blog-img-big-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1068,15 +1068,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\blog-img-big-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\blog-img-big-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\blog-img-big-3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\blog-img-big-3.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/blog-img-big-3.jpg",
+      "RelativePath": "Client/image/others/blog-img-big-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\blog-img-big-3.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\blog-img-big-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\brand-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\brand-1.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/brand-1.jpg",
+      "RelativePath": "Client/image/others/brand-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\brand-1.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\brand-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\brand-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\brand-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/brand-2.jpg",
+      "RelativePath": "Client/image/others/brand-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\brand-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\brand-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\brand-3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\brand-3.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/brand-3.jpg",
+      "RelativePath": "Client/image/others/brand-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\brand-3.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\brand-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\brand-4.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\brand-4.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/brand-4.jpg",
+      "RelativePath": "Client/image/others/brand-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\brand-4.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\brand-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\brand-5.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\brand-5.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/brand-5.jpg",
+      "RelativePath": "Client/image/others/brand-5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\brand-5.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\brand-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\brand-6.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\brand-6.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/brand-6.jpg",
+      "RelativePath": "Client/image/others/brand-6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\brand-6.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\brand-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\cat-gal-large.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\cat-gal-large.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/cat-gal-large.png",
+      "RelativePath": "Client/image/others/cat-gal-large.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\cat-gal-large.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\cat-gal-large.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\cat-gal-mid.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\cat-gal-mid.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/cat-gal-mid.png",
+      "RelativePath": "Client/image/others/cat-gal-mid.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,15 +1221,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\cat-gal-mid.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\cat-gal-mid.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\cat-gal-mid-2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\cat-gal-mid-2.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/cat-gal-mid-2.png",
+      "RelativePath": "Client/image/others/cat-gal-mid-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1238,15 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\cat-gal-mid-2.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\cat-gal-mid-2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\cat-gal-small.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\cat-gal-small.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/cat-gal-small.png",
+      "RelativePath": "Client/image/others/cat-gal-small.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,15 +1255,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\cat-gal-small.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\cat-gal-small.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\cat-gal-small-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\cat-gal-small-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/cat-gal-small-2.jpg",
+      "RelativePath": "Client/image/others/cat-gal-small-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1272,15 +1272,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\cat-gal-small-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\cat-gal-small-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\client-1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\client-1.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/client-1.png",
+      "RelativePath": "Client/image/others/client-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,15 +1289,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\client-1.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\client-1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\client-2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\client-2.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/client-2.png",
+      "RelativePath": "Client/image/others/client-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\client-2.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\client-2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\client-3.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\client-3.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/client-3.png",
+      "RelativePath": "Client/image/others/client-3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1323,15 +1323,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\client-3.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\client-3.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\client-4.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\client-4.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/client-4.png",
+      "RelativePath": "Client/image/others/client-4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1340,15 +1340,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\client-4.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\client-4.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\client-5.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\client-5.png",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/client-5.png",
+      "RelativePath": "Client/image/others/client-5.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1357,15 +1357,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\client-5.png"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\client-5.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\home-blog-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\home-blog-1.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/home-blog-1.jpg",
+      "RelativePath": "Client/image/others/home-blog-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1374,15 +1374,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\home-blog-1.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\home-blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\home-blog-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\home-blog-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/home-blog-2.jpg",
+      "RelativePath": "Client/image/others/home-blog-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1391,15 +1391,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\home-blog-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\home-blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\others\\home-side-promo.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\others\\home-side-promo.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/others/home-side-promo.jpg",
+      "RelativePath": "Client/image/others/home-side-promo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1408,15 +1408,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\others\\home-side-promo.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\others\\home-side-promo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\cart-product-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\cart-product-1.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/cart-product-1.jpg",
+      "RelativePath": "Client/image/products/cart-product-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1425,15 +1425,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\cart-product-1.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\cart-product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-1.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-1.jpg",
+      "RelativePath": "Client/image/products/product-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1442,15 +1442,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-1.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-10.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-10.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-10.jpg",
+      "RelativePath": "Client/image/products/product-10.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,15 +1459,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-10.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-11.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-11.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-11.jpg",
+      "RelativePath": "Client/image/products/product-11.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1476,15 +1476,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-11.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-12.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-12.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-12.jpg",
+      "RelativePath": "Client/image/products/product-12.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1493,15 +1493,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-12.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-13.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-13.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-13.jpg",
+      "RelativePath": "Client/image/products/product-13.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1510,15 +1510,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-13.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-13.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-2.jpg",
+      "RelativePath": "Client/image/products/product-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1527,15 +1527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-3.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-3.jpg",
+      "RelativePath": "Client/image/products/product-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1544,15 +1544,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-3.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-4.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-4.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-4.jpg",
+      "RelativePath": "Client/image/products/product-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1561,15 +1561,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-4.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-5.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-5.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-5.jpg",
+      "RelativePath": "Client/image/products/product-5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1578,15 +1578,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-5.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-6.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-6.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-6.jpg",
+      "RelativePath": "Client/image/products/product-6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1595,15 +1595,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-6.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-7.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-7.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-7.jpg",
+      "RelativePath": "Client/image/products/product-7.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1612,15 +1612,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-7.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-8.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-8.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-8.jpg",
+      "RelativePath": "Client/image/products/product-8.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1629,15 +1629,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-8.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-9.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-9.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-9.jpg",
+      "RelativePath": "Client/image/products/product-9.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1646,15 +1646,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-9.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-details-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-details-1.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-details-1.jpg",
+      "RelativePath": "Client/image/products/product-details-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1663,15 +1663,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-details-1.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-details-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-details-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-details-2.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-details-2.jpg",
+      "RelativePath": "Client/image/products/product-details-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1680,15 +1680,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-details-2.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-details-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-details-3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-details-3.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-details-3.jpg",
+      "RelativePath": "Client/image/products/product-details-3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1697,15 +1697,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-details-3.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-details-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-details-4.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-details-4.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-details-4.jpg",
+      "RelativePath": "Client/image/products/product-details-4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1714,15 +1714,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-details-4.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-details-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\image\\products\\product-details-5.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\image\\products\\product-details-5.jpg",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "image/products/product-details-5.jpg",
+      "RelativePath": "Client/image/products/product-details-5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1731,15 +1731,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\products\\product-details-5.jpg"
+      "OriginalItemSpec": "wwwroot\\Client\\image\\products\\product-details-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\js\\ajax-mail.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\js\\ajax-mail.js",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "js/ajax-mail.js",
+      "RelativePath": "Client/js/ajax-mail.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1748,15 +1748,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\ajax-mail.js"
+      "OriginalItemSpec": "wwwroot\\Client\\js\\ajax-mail.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\js\\custom.js",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "js/custom.js",
+      "RelativePath": "Client/js/custom.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1765,15 +1765,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\custom.js"
+      "OriginalItemSpec": "wwwroot\\Client\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\js\\plugins.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\Client\\js\\plugins.js",
       "SourceId": "Pustok p237",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Desktop\\back final\\Pustok p237\\Pustok p237\\wwwroot\\",
       "BasePath": "_content/Pustok p237",
-      "RelativePath": "js/plugins.js",
+      "RelativePath": "Client/js/plugins.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1782,7 +1782,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\plugins.js"
+      "OriginalItemSpec": "wwwroot\\Client\\js\\plugins.js"
     }
   ]
 }
