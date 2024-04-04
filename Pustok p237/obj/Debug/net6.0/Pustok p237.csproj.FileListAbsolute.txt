@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\bin\Debug\net6.0\Pustok p237.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\bin\Debug\net6.0\Pustok p237.exe
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\bin\Debug\net6.0\Pustok p237.deps.json
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\bin\Debug\net6.0\Pustok p237.runtimeconfig.json
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\bin\Debug\net6.0\Pustok p237.dll
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\bin\Debug\net6.0\Pustok p237.pdb
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\Pustok p237.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\Pustok p237.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\Pustok p237.AssemblyInfo.cs
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\Pustok p237.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\Pustok p237.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\Pustok p237.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\Pustok p237.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\staticwebassets\msbuild.Pustok p237.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\staticwebassets\msbuild.build.Pustok p237.props
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Pustok p237.props
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Pustok p237.props
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\scopedcss\bundle\Pustok p237.styles.css
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\scopedcss\projectbundle\Pustok p237.bundle.scp.css
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\Pustok p237.dll
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\refint\Pustok p237.dll
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\Pustok p237.pdb
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\Pustok p237.genruntimeconfig.cache
+C:\Users\Admin\Desktop\back final\Pustok p237\Pustok p237\obj\Debug\net6.0\ref\Pustok p237.dll
